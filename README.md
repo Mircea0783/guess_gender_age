@@ -1,2 +1,4 @@
 # guess_gender_age
-Pyton day 57 a small python program to run over the LAN all the family to play with
+Python Day 57: A small Python program to run over the LAN for the whole family to play with
+
+
